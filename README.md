@@ -1,1 +1,1 @@
-# auto_test_Task
+# To select the current driver(chrome or mozilla), change the browser.name parameter in the conf.properties file.
